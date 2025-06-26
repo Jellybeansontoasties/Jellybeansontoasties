@@ -1,5 +1,18 @@
-# 💫 About Me:
-# ᨐฅ  Hi, I’m Jellybeansontoast, but I go by Jelly<br>I'm an aspiring software engineer and developer, passionate about building secure, intelligent systems. My goal is to specialize in the intersection of **cybersecurity** and **AI**, where I can create tools that both defend and learn.<br><br>### ᨐ ∫ Current Projects:<br>- **Vulnera-AI** — An autonomous AI system for cyber threat discovery.  <br>  Automates vulnerability scanning, exploit detection, and patch suggestions using AI agents.<br>  <br>- ** Federated Dengue AI** — A privacy-respecting AI system for early dengue outbreak detection.  <br>  Uses federated learning to train across simulated barangay health centers without centralizing sensitive health data.<br><br>### (• ˕ •マ.ᐟ Currently Learning:<br>-  Reinforcement Learning & Multi-Agent Systems  <br>-  Secure AI Development & Offensive Security  <br>-  LLM tool use, orchestration, and retrieval-augmented generation  <br>-  ML Ops for deploying real-world, scalable AI systems  <br><br>Thanks for dropping by 
+**💫 About Me:**
+## ᨐฅ  Hi, I’m Jellybeansontoast**, but I go by Jelly
+I'm an aspiring software engineer and developer, passionate about building secure, intelligent systems. My goal is to specialize in the intersection of **cybersecurity** and **AI**, where I can create tools that both defend and learn.
+### ᨐ ∫ Current WIPs:
+*Vulnera-AI* — An autonomous AI system for cyber threat discovery.
+Automates vulnerability scanning, exploit detection, and patch suggestions using AI agents.
+*Federated Dengue AI* — A privacy-respecting AI system for early dengue outbreak detection.  
+Uses federated learning to train across simulated barangay health centers without centralizing sensitive health data.
+### (• ˕ •マ.ᐟ Currently Learning:
+- Reinforcement Learning & Multi-Agent Systems
+- Secure AI Development & Offensive Security
+- LLM tool use, orchestration, and retrieval-augmented generation
+- ML Ops for deploying real-world, scalable AI systems  
+
+Thanks for dropping by 
 
 
 # 💻 Tech Stack:
