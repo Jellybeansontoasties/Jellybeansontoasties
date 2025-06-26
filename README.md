@@ -1,13 +1,13 @@
-## ᨐฅ  Hi, I’m Jellybeansontoast, but I go by Jelly
-I'm an aspiring software engineer and developer, passionate about building secure, intelligent systems. My goal is to specialize in the intersection of **cybersecurity** and **AI**, where I can create tools that both defend and learn. I'm still learning the ropes when it comes to full-stack development and AI agent orchestration, so these repos reflects a mix of experimentation, curiosity, and progress. Expect updates as I grow *ฅᨐฅ*
+## ᨐฅ  Hallo, I’m Jellybeansontoast, but I go by Jelly
+Aspiring software engineer exploring **cybersecurity** & **AI**. Still learning — expect experiments, bugs, and lots of progress. *ฅᨐฅ*
 
-### (' ˕ 'マ ? Current WIPs: 
+### (• ˕ • マ ? Current WIPs:
 *Vulnera-AI* — An autonomous AI system for cyber threat discovery.
 Automates vulnerability scanning, exploit detection, and patch suggestions using AI agents.
 *Federated Dengue AI* — A privacy-respecting AI system for early dengue outbreak detection.
 Uses federated learning to train across simulated barangay health centers without centralizing sensitive health data.
 
-### (• ˕ •マ.ᐟ Currently Learning:
+### (• ˕ • マ.ᐟ Currently Learning:
 - Reinforcement Learning & Multi-Agent Systems
 - Secure AI Development & Offensive Security
 - LLM tool use, orchestration, and retrieval-augmented generation
