@@ -1,5 +1,5 @@
 **💫 About Me:**
-## ᨐฅ  Hi, I’m Jellybeansontoast**, but I go by Jelly
+## ᨐฅ  Hi, I’m Jellybeansontoast, but I go by Jelly
 I'm an aspiring software engineer and developer, passionate about building secure, intelligent systems. My goal is to specialize in the intersection of **cybersecurity** and **AI**, where I can create tools that both defend and learn.
 ### ᨐ ∫ Current WIPs:
 *Vulnera-AI* — An autonomous AI system for cyber threat discovery.
