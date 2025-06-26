@@ -4,8 +4,8 @@ Aspiring software engineer exploring **cybersecurity** & **AI**. Still learning 
 ### (• ˕ • マ ? Current WIPs
 *Vulnera-AI* — An autonomous AI system for cyber threat discovery.
 Automates vulnerability scanning, exploit detection, and patch suggestions using AI agents.
-*Federated Dengue AI* — A privacy-respecting AI system for early dengue outbreak detection.
-Uses federated learning to train across simulated barangay health centers without centralizing sensitive health data.
+FLARE — Federated Learning for At-Risk Environments — A privacy-respecting AI system for early dengue outbreak detection.
+Uses federated learning to train with Philippine cities healthcare sectors without centralizing sensitive health data.
 
 ### (• ˕ • マ.ᐟ Currently Learning
 - Reinforcement Learning & Multi-Agent Systems
