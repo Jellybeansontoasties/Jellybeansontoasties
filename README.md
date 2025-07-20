@@ -18,6 +18,5 @@ Thanks for dropping by
 ### Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jellybeansontoasties&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Jellybeansontoasties&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
