@@ -1,8 +1,8 @@
 ## ᨐฅ  Hallo, I’m Jellybeansontoast, but I go by Jelly
-Aspiring software engineer exploring **cybersecurity** & **AI**. Still learning — expect experiments, bugs, and lots of progress. *ฅᨐฅ*
+Exploring **cybersecurity** & **AI**. Still learning. *ฅᨐฅ*
 
 ### (• ˕ • マ ? Current WIPs
-no clue
+SIEM Home Lab
 
 ### (• ˕ • マ.ᐟ Currently Learning
 - Reinforcement Learning & Multi-Agent Systems
