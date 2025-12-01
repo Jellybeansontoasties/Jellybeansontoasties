@@ -1,4 +1,4 @@
-## ᨐฅ  Hallo, I’m Jellybeansontoast, but I go by Jelly
+## ᨐฅ  Hallo, I’m Jellybeansontoast or Jelly
 Exploring **cybersecurity** & **AI**. Still learning. *ฅᨐฅ*
 
 ### (• ˕ • マ ? Current WIPs
